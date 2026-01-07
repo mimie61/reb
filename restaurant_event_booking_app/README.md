@@ -47,11 +47,7 @@ flutter pub get
 flutter run
 ```
 
-### Tests and Analysis
-```
-flutter test
-flutter analyze
-```
+
 
 ## Project Structure
 ```
@@ -69,20 +65,6 @@ lib/
   theme/
   widgets/
 ```
-
-## Screenshots
-
-Add screenshots to the `screenshots/` folder and update links below:
-
-- Splash Screen - screenshots/splash.png
-- Guest Home - screenshots/guest-home.png
-- Menu Details - screenshots/menu-details.png
-- User Dashboard - screenshots/user-dashboard.png
-- Booking Form - screenshots/booking-form.png
-- Booking Summary - screenshots/booking-summary.png
-- Admin Dashboard - screenshots/admin-dashboard.png
-- Admin Manage Menu - screenshots/admin-manage-menu.png
-- Admin Manage Bookings - screenshots/admin-manage-bookings.png
 
 ## Architecture Notes
 - SQLite persistence via repository layer
